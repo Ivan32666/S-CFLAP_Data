@@ -1,2 +1,2 @@
 # S-CFLAP
-Data and code for S-CFLAP
+Data for S-CFLAP
